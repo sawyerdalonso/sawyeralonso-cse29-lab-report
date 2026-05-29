@@ -1,3 +1,4 @@
+theme: jekyll-theme-midnight
 # Sawyer Alonso
 ## UCSD First Year
 **Hobbies**
