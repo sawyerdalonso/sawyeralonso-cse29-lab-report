@@ -1,5 +1,5 @@
-#Sawyer Alonso
-##UCSD First Year
+# Sawyer Alonso
+## UCSD First Year
 **Hobbies**
 * [Warhammer](warhammer.com)
 * Gaming
