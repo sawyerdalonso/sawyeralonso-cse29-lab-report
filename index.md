@@ -7,4 +7,4 @@ theme: jekyll-theme-midnight
 * Sports (golf, lacrosse, soccer)
 **Favorite Food**
   *Pesto Pasta*
-  
+  [Secondary Page](https://sawyerdalonso.github.io/sawyeralonso-cse29-lab-report/new.html)
